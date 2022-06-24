@@ -14,7 +14,8 @@ flutter pub get lottie
 
 ## Lottie Files
 
-- Signup
+
+- [Signup](https://lottiefiles.com/)
 - Choose your favorite feature Lottie animation.
 - Download as Lottie JSON.
 
